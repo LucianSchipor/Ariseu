@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RAGEMP\\server-files\\dotnet\\resources\\server\\server-side\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FCE268-06E3-4379-BF6A-4BC161A411BA}|server\\server.csproj|c:\\ragemp\\server-files\\dotnet\\resources\\server\\server-side\\server\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FCE268-06E3-4379-BF6A-4BC161A411BA}|server\\server.csproj|solutionrelative:server\\commands\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FCE268-06E3-4379-BF6A-4BC161A411BA}|server\\server.csproj|c:\\ragemp\\server-files\\dotnet\\resources\\server\\server-side\\server\\chat\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FCE268-06E3-4379-BF6A-4BC161A411BA}|server\\server.csproj|solutionrelative:server\\chat\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\RAGEMP\\server-files\\dotnet\\resources\\server\\server-side\\server\\Commands\\Commands.cs",
+              "RelativeDocumentMoniker": "server\\Commands\\Commands.cs",
+              "ToolTip": "C:\\RAGEMP\\server-files\\dotnet\\resources\\server\\server-side\\server\\Commands\\Commands.cs",
+              "RelativeToolTip": "server\\Commands\\Commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T13:59:15.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\RAGEMP\\server-files\\dotnet\\resources\\server\\server-side\\server\\Chat\\Utils.cs",
+              "RelativeDocumentMoniker": "server\\Chat\\Utils.cs",
+              "ToolTip": "C:\\RAGEMP\\server-files\\dotnet\\resources\\server\\server-side\\server\\Chat\\Utils.cs",
+              "RelativeToolTip": "server\\Chat\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T13:58:07.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

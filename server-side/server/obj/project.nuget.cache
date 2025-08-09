@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMyOUBQXJrw=",
+  "success": true,
+  "projectFilePath": "C:\\RAGEMP\\server-files\\dotnet\\resources\\server\\server-side\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucian\\.nuget\\packages\\gtanetwork.api\\0.3.7\\gtanetwork.api.0.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
