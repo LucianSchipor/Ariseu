@@ -1,0 +1,4 @@
+﻿<meta>
+	<info name="Ariseu Gammode" description="Your gamemode description" />
+	<script src="server-side\server\bin\Debug\net6.0\server.dll" />
+</meta>
